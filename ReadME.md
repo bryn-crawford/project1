@@ -1,3 +1,3 @@
 # Attempt at building AI applications
 
-- Video editing
+- Video editing :D
